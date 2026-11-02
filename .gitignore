@@ -1,0 +1,9 @@
+.env*
+*.json
+*.js
+*.mjs
+*.apk
+*.exe
+*.log
+.DS_Store
+Thumbs.db

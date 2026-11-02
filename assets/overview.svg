@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Boxphone Lab engineering portfolio</title>
+  <desc id="desc">A local device workflow application. Public case study with private application source.</desc>
+  <rect width="1200" height="390" rx="20" fill="#101a28"/>
+  <rect x="40" y="36" width="7" height="318" fill="#71deca"/>
+  <text x="77" y="81" fill="#9be6d8" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">LOCAL DEVICE WORKFLOW ENGINEERING</text>
+  <text x="74" y="148" fill="#ffffff" font-family="Arial, sans-serif" font-size="59" font-weight="700">Boxphone Lab</text>
+  <text x="77" y="192" fill="#b9cadb" font-family="Arial, sans-serif" font-size="22">Android devices · Audio input · Controlled queues</text>
+  <rect x="77" y="235" width="244" height="50" rx="8" fill="#1c3044" stroke="#42617a"/>
+  <text x="97" y="267" fill="#e5f2fa" font-family="Arial, sans-serif" font-size="19">Node.js + JavaScript</text>
+  <rect x="339" y="235" width="240" height="50" rx="8" fill="#1c3044" stroke="#42617a"/>
+  <text x="359" y="267" fill="#e5f2fa" font-family="Arial, sans-serif" font-size="19">ADB + Web Interface</text>
+  <rect x="597" y="235" width="245" height="50" rx="8" fill="#233b36" stroke="#416e62"/>
+  <text x="617" y="267" fill="#acedd7" font-family="Arial, sans-serif" font-size="19">18 tests passed</text>
+  <text x="77" y="341" fill="#8ea5bd" font-family="Arial, sans-serif" font-size="17">Project showcase · Full application source remains private</text>
+</svg>
